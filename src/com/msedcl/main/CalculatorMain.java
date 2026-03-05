@@ -10,7 +10,7 @@ public class CalculatorMain {
 		CalculatorUtil  calutil=new CalculatorUtil();
 		System.out.println("Addition="+calutil.addition(10,20));
 		System.out.println("substraction="+calutil.substraction(10,20));
-
+		System.out.println("multiplication="+calutil.multiplication(10,20));
 	}
 
 }
